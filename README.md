@@ -15,4 +15,7 @@ zkouška Githubu
 2. je
 3. cislovany
 4. seznam
+5. s
+6. peti
+7. odrazkami
 
