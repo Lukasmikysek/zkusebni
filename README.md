@@ -1,2 +1,2 @@
-# zku-ebn-
+# zkusebni
 zkouška Githubu
